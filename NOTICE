@@ -1,0 +1,9 @@
+cucumber-taf
+Copyright (c) 2026 alexxfromgit - MIT License (see LICENSE)
+
+The examples run against public demo services that are not affiliated with this project:
+
+* Swag Labs demo shop by Sauce Labs (https://www.saucedemo.com) - web scenarios.
+* DummyJSON (https://dummyjson.com) - API scenarios.
+
+Their demo accounts and passwords are published by the services themselves.
