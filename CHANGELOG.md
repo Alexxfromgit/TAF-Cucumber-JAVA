@@ -5,6 +5,8 @@ All notable changes to this project are documented here. The format follows
 
 ## [Unreleased]
 
+## [2.0.0] - 2026-10-04
+
 ### Changed
 - Rewritten as a framework template: Java 21, Cucumber 7.34 on JUnit Platform 6, Selenium 4.50, REST Assured 5.5
   and Allure 2.35, organised as a Maven reactor (`taf-core` framework and `examples`).
@@ -26,3 +28,6 @@ All notable changes to this project are documented here. The format follows
 
 ### Removed
 - The 2018 console-printing data-table exercise (Cucumber 1.2, Java 8).
+
+[Unreleased]: https://github.com/Alexxfromgit/TAF-Cucumber-JAVA/compare/v2.0.0...HEAD
+[2.0.0]: https://github.com/Alexxfromgit/TAF-Cucumber-JAVA/releases/tag/v2.0.0
