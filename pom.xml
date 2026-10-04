@@ -34,7 +34,7 @@
         <cucumber.version>7.34.9</cucumber.version>
         <junit.version>6.1.3</junit.version>
         <selenium.version>4.50.0</selenium.version>
-        <rest-assured.version>5.5.7</rest-assured.version>
+        <rest-assured.version>6.0.1</rest-assured.version>
         <allure.version>2.35.5</allure.version>
         <allure-commandline.version>2.46.1</allure-commandline.version>
         <aspectj.version>1.9.25.1</aspectj.version>
